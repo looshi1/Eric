@@ -1,0 +1,59 @@
+{
+    "token": "OTgzODEwNjUwNTIwMzA1NzQ0.GRF9Ky.oVr_kHHjKa7bYNzSxZd6Bz0ggWWI91PsVP6hfI",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/983814262671695932/RQlSVXFVdCtn9nSBRX3YlB4U49iwsrYgOXNrxpC0gIREs1jk45Sm5pZFkES4Hx52mgzb": {
+            "url": "https://www.vinted.fr/vetements?search_text=Jean%20Carhartt&search_id=5549090858&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&price_to=15&currency=EUR&order=newest_first&status[]=6&status[]=1&status[]=2&status[]=3&brand_id[]=362",
+            "salon": "jean-carhartt-15\u20ac"
+        },
+        "https://discord.com/api/webhooks/983814314068684850/NOfg0-0-J4iynGAbZyFTwWh81W3-EQghOpCUMvNmcXYnKxt2aMjmUt2No0S0i1q-fqFO": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=88&brand_id[]=304&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&catalog[]=79&status[]=1&status[]=6&status[]=2&status[]=3&order=newest_first&currency=EUR&price_to=15",
+            "salon": "pulls-15\u20ac"
+        },
+        "https://discord.com/api/webhooks/983814941008097302/h7iEsOnKUSTKlMmaHu1SE6gim4RFVCPQeF8KlylHODirpLR6ZTDysHV3HdI1N8xa8weF": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=1242&price_to=50&currency=EUR&status[]=2&status[]=3&status[]=6&status[]=1&order=newest_first&brand_id[]=53&search_text=tn&search_id=5549139186&time=1654630115",
+            "salon": "tn-50\u20ac"
+        },
+        "https://discord.com/api/webhooks/983815592270258237/IkXAVDbogJgmI-xT-PrxSFBnjfEj8ZnIU9X9085guaYb-gdlR2XpQob6QAzuWD4koTVP": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=34&brand_id[]=53&brand_id[]=88&brand_id[]=304&price_to=15&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3&order=price_high_to_low&search_text=jogging&search_id=5549181455&time=1654630265",
+            "salon": "jogging-15\u20ac"
+        },
+        "https://discord.com/api/webhooks/983818208165380098/c9vUsEnRj2RPfvtE8TIiMTZVQLw8ItSvgNUBVMjHag63uUIDGTYWN0mDoNAX3v9xOjYm": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=88&brand_id[]=304&brand_id[]=362&brand_id[]=4691320&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&catalog[]=79&status[]=1&status[]=6&status[]=2&status[]=3&order=newest_first&currency=EUR&price_to=15",
+            "salon": "pulls-15\u20ac"
+        },
+        "https://discord.com/api/webhooks/983820235289264251/iwRLlhbr_QnaiLvTYsiu1tdBs1CSDdHbDPD7mg17CJXRNsyjC6fRZ0JN6OxoZz5NyDHp": {
+            "url": "https://www.vinted.fr/vetements?search_text=air%20force%20one&search_id=5549431004&brand_id[]=53&order=newest_first&price_to=20&currency=EUR&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=56&size_id[]=1196&size_id[]=57&size_id[]=1197&size_id[]=58&size_id[]=1198&size_id[]=59&size_id[]=1199&size_id[]=60&size_id[]=1200&size_id[]=61&size_id[]=1201&size_id[]=62&size_id[]=63&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790",
+            "salon": "af1-20\u20ac"
+        },
+        "https://discord.com/api/webhooks/983822017600045057/VkufKTof2prK-DT-4p7NmF9JDEYWGEBjx4pyZkHZfD7hi4S6j9ORkdDEBHenp0egLmij": {
+            "url": "https://www.vinted.fr/vetements?search_text=tn&search_id=5549578503&price_to=150&currency=EUR&status[]=6&status[]=3&status[]=2&status[]=1&order=newest_first&size_id[]=782&size_id[]=784&size_id[]=785&brand_id[]=53",
+            "salon": "tn-150\u20ac"
+        },
+        "https://discord.com/api/webhooks/983822644837249135/b3bMnC7pDgy11KhE3eDZ4wQGce4qk4LKu96gtcmk2B0RoxhqzIg_em0yMNvlvIxrdPr7": {
+            "url": "https://www.vinted.fr/vetements?search_text=nike%20tech%20fleece&search_id=5549616636&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=53&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3&order=newest_first",
+            "salon": "nike-tech-fleece"
+        },
+        "https://discord.com/api/webhooks/983822970927603783/q4MJq3puFeE1w6md73NUYrkI2IcpPRIPOyaZcpiQXWSUkNfkxnjY6f9-U8iWoEUrQfVQ": {
+            "url": "https://www.vinted.fr/vetements?search_text=y2k&search_id=5549645779&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=3&status[]=2&status[]=1&order=relevance",
+            "salon": "y2k"
+        },
+        "https://discord.com/api/webhooks/983824524946571354/bNsadEleEpsWS4Dai9XNfo_sJIHJFVeUNPvshCbdHIYuFQ5T428b6Aq-HX_8dg3sx19m": {
+            "url": "https://www.vinted.fr/vetements?search_text=ensemble&search_id=5549199418&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=53&brand_id[]=304&brand_id[]=88&order=newest_first&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3&price_to=30",
+            "salon": "ensemble-50\u20ac"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
